@@ -13,6 +13,7 @@ Programa de Alura diseñado en el aprendisaje de Inteligencia Artificial, median
 > 🎓 **CURSO:** Agentes de IA con LangGraph  
 >  >   * Configurando el LLM Ver el primer video&emsp; [ver](https://github.com/Lu1sMig/AgentIaLangChain/blob/main/AgenteBusquedaIA_act.ipynb)
 >  >     &emsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lu1sMig/AgentIaLangChain/blob/main/AgenteBusquedaIA_act.ipynb)&emsp; **Progreso:** `████████████████████` 100%
+>  >     ![Descargas](https://img.shields.io/github/downloads/Lu1sMig/AgentIaLangChain/total?logo=github)
 >  >  * Haciendo las primeras búsquedas
 >  >  * Perfeccionando búsquedas con múltiples agentes
 >  >  * Construyendo una visualización
