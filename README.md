@@ -14,6 +14,8 @@ Programa de Alura diseñado en el aprendisaje de Inteligencia Artificial, median
 >  > * Configurando el LLM&emsp; [![Open In GitHub](https://img.shields.io/badge/Open_In_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lu1sMig/AgentIaLangChain/blob/main/AgenteBusquedaIA_act.ipynb)&emsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lu1sMig/AgentIaLangChain/blob/main/AgenteBusquedaIA_act.ipynb)&emsp; **Progreso:** `████████████████████` 100%
 >  >
 >  > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lu1sMig/Lu1sMig/AgentIaLangChain/blob/main/fIA-p1c2s1_AgenteBusqueda.py)
+>  > ->
+>  > [![Open In GitHub](https://img.shields.io/badge/Open_In_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lu1sMig/AgentIaLangChain/blob/main/IA-p1c2s1_AgenteBusqueda.py)
 
 >[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Lu1sMig/AgentIaLangChain/blob/main/fIA-p1c2s1_AgenteBusqueda.py)
 https://github.com/Lu1sMig/AgentIaLangChain/blob/main/fIA-p1c2s1_AgenteBusqueda.py
