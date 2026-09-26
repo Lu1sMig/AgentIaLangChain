@@ -7,10 +7,11 @@ Programa de Alura diseñado en el aprendisaje de Inteligencia Artificial, median
 * Proyectos Prácticos: Desarrollarás proyectos reales y pipelines inteligentes para fortalecer tu portafolio, capacitándote para crear soluciones integrales de extremo a extremo.  
 
 ## 📚 Paso 1: Construye agentes inteligentes con LangGraph y LLMs
+
 > 📖 **ARTÍCULO:** [Cómo crear una Inteligencia Artificial: Guía completa desde cero a la práctica](https://www.aluracursos.com/blog/como-crear-una-inteligencia-artificial-guia-completa-desde-cero-a-la-practica)
 
 > 🎓 **CURSO:** Agentes de IA con LangGraph  
->   * Configurando el LLM Ver el primer video &emps; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usuario/repositorio/blob/main/cuaderno.ipynb)  &emsp; **Progreso:** `████████████████████` 100% 
+>   * Configurando el LLM Ver el primer video &emps; [ver](https://github.com/Lu1sMig/AgentIaLangChain/edit/main/AgenteBusquedaIA_act.ipynb) &emps; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usuario/repositorio/blob/main/cuaderno.ipynb)  &emsp; **Progreso:** `████████████████████` 100% 
 >    * Haciendo las primeras búsquedas
 >    * Perfeccionando búsquedas con múltiples agentes
 >    * Construyendo una visualización
