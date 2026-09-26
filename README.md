@@ -22,7 +22,12 @@ Programa de Alura diseñado en el aprendisaje de Inteligencia Artificial, median
 ---
 **Contáctame**
 
-> [!NOTE]
+---
+<p align="center">
+  <sub>© 2026 @ MIG Ult. Act. 202609260654 @tky ALURA</sub>
+</p>
+
+> [!OTRO]
 > Texto destacado en azul.
 
 > [!TIP]
@@ -35,9 +40,12 @@ Programa de Alura diseñado en el aprendisaje de Inteligencia Artificial, median
 > Texto destacado en rojo.
 > 
 
+# -----
 ![Texto](https://img.shields.io/badge/Texto-Azul-blue)
 ![Especial](https://img.shields.io/badge/Estado-Activo-brightgreen)
 ![Tecnología](https://img.shields.io/badge/Oracle-FF0000?style=flat&logo=oracle&logoColor=white)
+![AUR Last Modified](https://img.shields.io/aur/last-modified/:packageName)
+
 
 ### Método 3: Abertura Direta
 
@@ -72,8 +80,4 @@ Dê um duplo clique no arquivo `index.html` ou arraste-o para o navegador (Chrom
   </tr>
 </table>
 
----
 
-<p align="center">
-  <sub>© 2026 Hackathon ONE Grupo 10 · Alura + Oracle + NoCountry. Todos os direitos reservados.</sub>
-</p>
