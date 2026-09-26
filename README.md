@@ -17,7 +17,7 @@ Programa de Alura diseñado en el aprendisaje de Inteligencia Artificial, median
 >  >  * Perfeccionando búsquedas con múltiples agentes
 >  >  * Construyendo una visualización
 
-> 📖 **ARTÍCULO:** LangGraph: Qué es, cómo usarlo y sus funcionalidades | Alura Cursos Online
+> 📖 **ARTÍCULO:** [LangGraph: Qué es, cómo usarlo y sus funcionalidades | Alura Cursos Online](https://www.aluracursos.com/blog/langgraph-que-es-como-usarlo-y-sus-funcionalidades)
   
 > 🎓 **CURSO:** LangGraph: Orquestación de agentes y multiagentes
    > **Progreso:** `████████████░░░░░░░░` 43%
