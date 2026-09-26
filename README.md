@@ -22,5 +22,58 @@ Programa de Alura diseñado en el aprendisaje de Inteligencia Artificial, median
 ---
 **Contáctame**
 
+> [!NOTE]
+> Texto destacado en azul.
 
+> [!TIP]
+> Texto destacado en verde.
 
+> [!WARNING]
+> Texto destacado en amarillo.
+
+> [!CAUTION]
+> Texto destacado en rojo.
+> 
+
+![Texto](https://img.shields.io/badge/Texto-Azul-blue)
+![Especial](https://img.shields.io/badge/Estado-Activo-brightgreen)
+![Tecnología](https://img.shields.io/badge/Oracle-FF0000?style=flat&logo=oracle&logoColor=white)
+
+### Método 3: Abertura Direta
+
+Dê um duplo clique no arquivo `index.html` ou arraste-o para o navegador (Chrome, Edge, Firefox, Safari).
+
+---
+
+## 🤝 Parceiros Estratégicos
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="URL_LOGO_ALURA" alt="Alura" width="120"><br>
+      <b>Alura</b><br><br>
+      <sub>Maior ecossistema de aprendizado em tecnologia do Brasil. Responsável pelo conteúdo e pedagogia.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="URL_LOGO_ORACLE" alt="Oracle" width="120"><br>
+      <b>Oracle</b><br><br>
+      <sub>Líder global e impulsionadora do ONE. Provedora de acesso e capacitação em Oracle Cloud Infrastructure.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="URL_LOGO_ONE" alt="Programa ONE" width="120"><br>
+      <b>Programa ONE</b><br><br>
+      <sub>Iniciativa social de educação e empregabilidade em tecnologia 100% gratuita.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="URL_LOGO_NOCOUNTRY" alt="NoCountry" width="120"><br>
+      <b>NoCountry</b><br><br>
+      <sub>Plataforma de aceleração e formação de times de talentos colaborativos.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <sub>© 2026 Hackathon ONE Grupo 10 · Alura + Oracle + NoCountry. Todos os direitos reservados.</sub>
+</p>
