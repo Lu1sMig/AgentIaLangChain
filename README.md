@@ -11,7 +11,7 @@ Programa de Alura diseñado en el aprendisaje de Inteligencia Artificial, median
 > 📖 **ARTÍCULO:** [Cómo crear una Inteligencia Artificial: Guía completa desde cero a la práctica](https://www.aluracursos.com/blog/como-crear-una-inteligencia-artificial-guia-completa-desde-cero-a-la-practica)
 
 > 🎓 **CURSO:** Agentes de IA con LangGraph  
->  > * Configurando el LLM&emsp;[![Open In GitHub](https://img.shields.io/badge/Open_In_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lu1sMig/AgentIaLangChain/blob/main/AgenteBusquedaIA_act.ipynb)&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lu1sMig/AgentIaLangChain/blob/main/AgenteBusquedaIA_act.ipynb)&emsp; **Progreso:** `████████████████████` 100%
+>  > * Configurando el LLM&emsp;[![Open In GitHub](https://img.shields.io/badge/Open_In_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lu1sMig/AgentIaLangChain/blob/main/fIAp1c2s1_AgenteBusqueda.ipynb)&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lu1sMig/AgentIaLangChain/blob/main/fIAp1c2s1_AgenteBusqueda.ipynb)&emsp; **Progreso:** `████████████████████` 100%
 >  >
 >  >  * Haciendo las primeras búsquedas
 >  >  * Perfeccionando búsquedas con múltiples agentes
