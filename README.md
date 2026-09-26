@@ -11,15 +11,11 @@ Programa de Alura diseñado en el aprendisaje de Inteligencia Artificial, median
 > 📖 **ARTÍCULO:** [Cómo crear una Inteligencia Artificial: Guía completa desde cero a la práctica](https://www.aluracursos.com/blog/como-crear-una-inteligencia-artificial-guia-completa-desde-cero-a-la-practica)
 
 > 🎓 **CURSO:** Agentes de IA con LangGraph  
->   * Configurando el LLM Ver el primer video&emsp; [ver](https://github.com/Lu1sMig/AgentIaLangChain/edit/main/AgenteBusquedaIA_act.ipynb)&emsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usuario/repositorio/blob/main/cuaderno.ipynb)  &emsp; **Progreso:** `████████████████████` 100%
->   * >   * Configurando el LLM Ver el primer video&emsp; [ver](https://github.com/Lu1sMig/AgentIaLangChain/blob/main/AgenteBusquedaIA_act.ipynb)
->     >     &emsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lu1sMig/AgentIaLangChain/blob/main/AgenteBusquedaIA_act.ipynb)&emsp; **Progreso:** `████████████████████` 100%
-
->    * Haciendo las primeras búsquedas
-
->    * Perfeccionando búsquedas con múltiples agentes
-
->    * Construyendo una visualización
+>  >   * Configurando el LLM Ver el primer video&emsp; [ver](https://github.com/Lu1sMig/AgentIaLangChain/blob/main/AgenteBusquedaIA_act.ipynb)
+>  >     &emsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lu1sMig/AgentIaLangChain/blob/main/AgenteBusquedaIA_act.ipynb)&emsp; **Progreso:** `████████████████████` 100%
+>  >  * Haciendo las primeras búsquedas
+>  >  * Perfeccionando búsquedas con múltiples agentes
+>  >  * Construyendo una visualización
 
 > 📖 **ARTÍCULO:** LangGraph: Qué es, cómo usarlo y sus funcionalidades | Alura Cursos Online
   
